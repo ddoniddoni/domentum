@@ -1,1 +1,9 @@
 @import "reset.css";
+
+body {
+  background-color: brown;
+}
+
+h1 {
+  color: wheat;
+}
