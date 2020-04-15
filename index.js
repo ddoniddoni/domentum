@@ -1,2 +1,7 @@
-const title = document.getElementById("title");
-title.innerHTML = " HI~ FIROM JS";
+const title = document.querySelector("#title");
+
+function handleClick() {
+  title.style.color = "red";
+}
+
+title.addEventListener("click", handleClick);
