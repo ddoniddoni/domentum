@@ -1,0 +1,15 @@
+.toDoList__li {
+  margin-top: 20px;
+}
+
+.toDoList__delBtn {
+  background: none;
+  border: none;
+  size: 30px;
+  cursor: pointer;
+}
+
+.toDoList__text {
+  font-size: 20px;
+  font-weight: 400;
+}
